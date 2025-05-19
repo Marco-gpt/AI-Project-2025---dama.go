@@ -1,0 +1,9 @@
+# 10. Laden der Dateien
+# Ganz am Anfang deines Skripts
+
+# import numpy as np
+# data = np.load("train_data.npz")
+# x_train = data["x"]
+# y_train = data["y"]
+# print("Daten geladen:", x_train.shape, y_train.shape)
+
